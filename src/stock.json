@@ -1,0 +1,32 @@
+[
+    {
+        "sku" : "123",
+        "url" : "pink-dress-123",
+        "name" : "pink dress",
+        "qty": 10
+    },
+    {
+        "sku" : "456",
+        "url" : "blue-dress-456",
+        "name" : "blue dress",
+        "qty": 20
+    },
+    {
+        "sku" : "789",
+        "url" : "red-dress-789",
+        "name" : "red dress",
+        "qty": 30
+    },
+    {
+        "sku" : "101",
+        "url" : "green-dress-101",
+        "name" : "green dress",
+        "qty": 2
+    },
+    {
+        "sku" : "112",
+        "url" : "yellow-dress-112",
+        "name" : "yellow dress",
+        "qty": 12
+    }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "transaction_id": "1234567890",
+    "transaction_date": "2019-01-01",
+    "SKU_purchased": [
+      { "sku": "123", "qty": 1 },
+      { "sku": "456", "qty": 2 }
+    ]
+  },
+  {
+    "transaction_id": "1234567891",
+    "transaction_date": "2019-01-01",
+    "SKU_purchased": [{ "sku": "123", "qty": 3 }]
+  },
+  {
+    "transaction_id": "1234567891",
+    "transaction_date": "2019-01-01",
+    "SKU_purchased": [{ "sku": "123", "qty": 1 }]
+  },
+  {
+    "transaction_id": "1234567891",
+    "transaction_date": "2019-01-01",
+    "SKU_purchased": [{ "sku": "123456", "qty": 1 }]
+  }
+]
